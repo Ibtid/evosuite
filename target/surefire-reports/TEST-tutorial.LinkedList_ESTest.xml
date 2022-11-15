@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="tutorial.StackTest" time="0" errors="0" skipped="0">
+<testsuite tests="11" failures="0" name="tutorial.LinkedList_ESTest" time="0.029" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="D:\Netbeans\jdk1.8.0_111\jre\bin"/>
@@ -65,5 +65,15 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="tutorial.StackTest" name="test" time="0"/>
+  <testcase classname="tutorial.LinkedList_ESTest" name="test01" time="0.004"/>
+  <testcase classname="tutorial.LinkedList_ESTest" name="test00" time="0.003"/>
+  <testcase classname="tutorial.LinkedList_ESTest" name="test10" time="0.002"/>
+  <testcase classname="tutorial.LinkedList_ESTest" name="test05" time="0.003"/>
+  <testcase classname="tutorial.LinkedList_ESTest" name="test04" time="0.003"/>
+  <testcase classname="tutorial.LinkedList_ESTest" name="test03" time="0.003"/>
+  <testcase classname="tutorial.LinkedList_ESTest" name="test02" time="0.002"/>
+  <testcase classname="tutorial.LinkedList_ESTest" name="test09" time="0.002"/>
+  <testcase classname="tutorial.LinkedList_ESTest" name="test08" time="0.003"/>
+  <testcase classname="tutorial.LinkedList_ESTest" name="test07" time="0.002"/>
+  <testcase classname="tutorial.LinkedList_ESTest" name="test06" time="0.002"/>
 </testsuite>
