@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c57c1692-3a40-421c-9cac-e75c4f5b6976" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial_Maven.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial_Maven.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-tutorial.StackTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-tutorial.StackTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tutorial.StackTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/tutorial.StackTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../evosuite-coverage-tools/pit" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -59,5 +54,15 @@
       <updated>1668488730011</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="91" key="FileChooserDialogImpl" timestamp="1668525525761">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="421" y="91" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1668525525761" />
+    <state x="634" y="0" width="652" height="678" key="com.intellij.ide.util.TipDialog" timestamp="1668523829064">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="634" y="0" width="652" height="678" key="com.intellij.ide.util.TipDialog/0.0.1280.672@0.0.1280.672" timestamp="1668523829064" />
   </component>
 </project>

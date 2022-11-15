@@ -36,6 +36,17 @@
         <artifactId>evosuite-maven-plugin</artifactId>
         <version>1.0.6</version>
       </plugin>
+      <plugin>
+        <groupId>com.atlassian.maven.plugins</groupId>
+        <artifactId>clover-maven-plugin</artifactId>
+        <version>4.1.2</version>
+        <configuration>
+          <excludes>
+            <exclude>**/*_ESTest.java</exclude>
+            <exclude>**/*_ESTest_scaffolding.java</exclude>
+          </excludes>
+        </configuration>
+      </plugin>
     </plugins>
   </build>
 
